@@ -1,0 +1,13 @@
+ru/netology/data/DataHelper.java
+ ru.netology.data.DataHelper
+ ru.netology.data.DataHelper$AuthInfo
+ru/netology/page/DashboardPage.java
+ ru.netology.page.DashboardPage
+ru/netology/login/LoginTest.java
+ ru.netology.login.LoginTest
+ru/netology/page/LoginPage.java
+ ru.netology.page.LoginPage
+ru/netology/db/SqlGetters.java
+ ru.netology.db.SqlGetters
+ru/netology/page/VerificationPage.java
+ ru.netology.page.VerificationPage
