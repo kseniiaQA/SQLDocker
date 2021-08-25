@@ -1,7 +1,5 @@
 package ru.netology.db;
-
 import lombok.SneakyThrows;
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 
